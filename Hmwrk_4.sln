@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dz_Tumak", "Dz_Tumak\Dz_Tumak.csproj", "{C6B7FDC1-0AF5-4DAC-8FFA-246AD70EE8C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dz_File", "Dz_File\Dz_File.csproj", "{12071EA2-2BF9-49F7-AE6F-4DE71C742D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B7FDC1-0AF5-4DAC-8FFA-246AD70EE8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B7FDC1-0AF5-4DAC-8FFA-246AD70EE8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B7FDC1-0AF5-4DAC-8FFA-246AD70EE8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B7FDC1-0AF5-4DAC-8FFA-246AD70EE8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12071EA2-2BF9-49F7-AE6F-4DE71C742D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12071EA2-2BF9-49F7-AE6F-4DE71C742D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12071EA2-2BF9-49F7-AE6F-4DE71C742D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12071EA2-2BF9-49F7-AE6F-4DE71C742D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {503462BF-5C66-4C6A-A20B-CB903818746D}
+	EndGlobalSection
+EndGlobal
